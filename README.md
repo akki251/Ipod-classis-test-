@@ -7,7 +7,7 @@ moments are captured using zingTouch, and artist animation using react-coverflow
 
 ## LIVE DEMO
 
-Live demo (Feel free to visit) 👉 : 
+Live demo (Feel free to visit) 👉 : [https://ipod-classic-using-react.netlify.app/]
 
 
 ## Run Locally
@@ -18,7 +18,7 @@ Clone the project
   git clone 
 ```
 
-Go to the project directory
+Go to the project directory  
 
 ```bash
   cd ipod-proj-react
