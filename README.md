@@ -10,6 +10,11 @@ moments are captured using zingTouch, and artist animation using react-coverflow
 Live demo (Feel free to visit) 👉 : [https://ipod-classic-using-react.netlify.app/]
 
 
+![App Screenshot](https://github.com/akki251/Ipod-classis-test-/blob/main/ipod%20ss.png)
+
+
+
+
 ## Run Locally
 
 Clone the project
